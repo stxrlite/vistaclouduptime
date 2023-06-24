@@ -7,25 +7,22 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.vistacloud.org
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://media.discordapp.net/attachments/1121526592867414096/1121528377866727474/vistacloudnowording.png?width=467&height=467
+  name: VistaCloud
+  introTitle: "Welcome to **VistaCloud**, where your gaming adventures thrive, and your web ventures flourish. Join our community of satisfied customers today and experience the pinnacle of Game Server and Web Hosting excellence."
+  introMessage: Visit our website or contact us to explore our solutions and discover the limitless possibilities that await you with VistaCloud!
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Main Website
+      href: https://vistacloud.org
+    - title: Panel
+      href: https://portal.vistacloud.org
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
