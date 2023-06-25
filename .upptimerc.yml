@@ -3,11 +3,11 @@ owner: stxrlite # Your GitHub organization or username, where this repository li
 repo: vistaclouduptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-
+  - name: Main Site 
+    url: https://vistacloud.org
+  - name: Panel
+    url: https://portal.vistacloud.org
+  - name: 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
