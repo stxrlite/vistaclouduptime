@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vistacloud.org.ico",
     "slug": "main-site",
     "status": "down",
-    "uptime": "3.86%",
-    "uptimeDay": "3.86%",
-    "uptimeWeek": "3.86%",
-    "uptimeMonth": "3.86%",
-    "uptimeYear": "3.86%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-25": 0
+      "2023-06-25": 27
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal.vistacloud.org.ico",
     "slug": "panel",
     "status": "down",
-    "uptime": "14.82%",
-    "uptimeDay": "14.82%",
-    "uptimeWeek": "14.82%",
-    "uptimeMonth": "14.82%",
-    "uptimeYear": "14.82%",
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-25": 0
+      "2023-06-25": 27
     }
   }
 ]
