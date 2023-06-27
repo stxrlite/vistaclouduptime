@@ -13,7 +13,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.vistacloud.org
   # baseUrl: /your-repo-name
-  logoUrl: https://media.discordapp.net/attachments/1121526592867414096/1121528377866727474/vistacloudnowording.png?width=467&height=467
+  logoUrl: https://cdn.discordapp.com/attachments/1121526592867414096/1123065789268885564/Vistacloudlogotitleright.png?width=467&height=467
   name: VistaCloud
   introTitle: "Welcome to **VistaCloud**, where your gaming adventures thrive, and your web ventures flourish. Join our community of satisfied customers today and experience the pinnacle of Game Server and Web Hosting excellence."
   introMessage: Visit our website or contact us to explore our solutions and discover the limitless possibilities that await you with VistaCloud!
