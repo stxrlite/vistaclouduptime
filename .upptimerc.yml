@@ -13,14 +13,14 @@ sites:
     url: https://panel.vistacloud.org
   - name: Node 01 PA
     check: "tcp-ping"
-    url: n1.vistacloud.org
+    url: 23.159.176.2
     port: 8080
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.vistacloud.org
   # baseUrl: /your-repo-name
-  logoUrl: https://media.discordapp.net/attachments/1128879927681355858/1128880831507734528/vistacloudqsqurcle.png
+  logoUrl: https://media.discordapp.net/attachments/1128879927681355858/1128880831507734528/vistacloudqsqurcle.png?width=553&height=553
   name: VistaCloud
   introTitle: "Welcome to **VistaCloud**, where your gaming adventures thrive, and your web ventures flourish. Join our community of satisfied customers today and experience the pinnacle of Game Server and Web Hosting excellence."
   introMessage: Visit our website or contact us to explore our solutions and discover the limitless possibilities that await you with VistaCloud!
