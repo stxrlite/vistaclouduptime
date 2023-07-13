@@ -5,15 +5,22 @@ repo: vistaclouduptime # The name of this repository
 sites:
   - name: Main Site 
     url: https://vistacloud.org
+  - name: Website Hosting
+    url: https://web.vistacloud.org:2222/
+  - name: Billing Portal
+  url: https://portal.vistacloud.org
   - name: Panel
-    url: https://portal.vistacloud.org
-
+    url: https://panel.vistacloud.org
+  - name: Node 01 PA
+    check: "tcp-ping"
+    url: n1.vistacloud.org
+    port: 8080
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.vistacloud.org
   # baseUrl: /your-repo-name
-  logoUrl: https://cdn.discordapp.com/attachments/1121526592867414096/1123065789268885564/Vistacloudlogotitleright.png?width=1200&height=1200
+  logoUrl: https://media.discordapp.net/attachments/1128879927681355858/1128880831507734528/vistacloudqsqurcle.png
   name: Your source for great hosting!
   introTitle: "Welcome to **VistaCloud**, where your gaming adventures thrive, and your web ventures flourish. Join our community of satisfied customers today and experience the pinnacle of Game Server and Web Hosting excellence."
   introMessage: Visit our website or contact us to explore our solutions and discover the limitless possibilities that await you with VistaCloud!
@@ -21,7 +28,7 @@ status-website:
     - title: Main Website
       href: https://vistacloud.org
     - title: Panel
-      href: https://portal.vistacloud.org
+      href: https://panel.vistacloud.org
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
