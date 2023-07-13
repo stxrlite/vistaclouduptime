@@ -8,7 +8,7 @@ sites:
   - name: Website Hosting
     url: https://web.vistacloud.org:2222
   - name: Billing Portal
-  url: https://portal.vistacloud.org
+    url: https://portal.vistacloud.org
   - name: Panel
     url: https://panel.vistacloud.org
   - name: Node 01 PA
