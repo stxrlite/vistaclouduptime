@@ -6,7 +6,7 @@ sites:
   - name: Main Site 
     url: https://vistacloud.org
   - name: Website Hosting
-    url: https://web.vistacloud.org:2222/
+    url: https://web.vistacloud.org:2222
   - name: Billing Portal
   url: https://portal.vistacloud.org
   - name: Panel
