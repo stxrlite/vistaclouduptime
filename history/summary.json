@@ -4,10 +4,10 @@
     "url": "https://web.vistacloud.org:2222",
     "icon": "https://icons.duckduckgo.com/ip3/web.vistacloud.org.ico",
     "slug": "website-hosting",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 342,
@@ -15,7 +15,9 @@
     "timeWeek": 307,
     "timeMonth": 345,
     "timeYear": 342,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-21": 1
+    }
   },
   {
     "name": "Billing Portal",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal.vistacloud.org.ico",
     "slug": "billing-portal",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.96%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 1793,
     "timeDay": 2034,
     "timeWeek": 1886,
     "timeMonth": 1786,
     "timeYear": 1793,
     "dailyMinutesDown": {
-      "2023-08-21": 0,
+      "2023-08-21": 5,
       "2023-07-28": 17
     }
   },
